@@ -1,0 +1,103 @@
+{
+    "basics": {
+      "name": "Kristin Reagle",
+      "label": "Senior Technical Writer",
+      "image": "",
+      "email": "kayreagle@gmail.com",
+      "phone": "(814) 558-1558",
+      "summary": "I am a Senior Technical Writer with expertise in software, robotics, and manufaturing.",
+      "location": {
+        "city": "Pittsburgh",
+        "countryCode": "US",
+        "region": "Pennsylvania"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/kristin-reagle"
+      }]
+    },
+    "work": [{
+      "name": "Amazon Web Services",
+      "position": "Senior Technical Writer",
+      "url": "https://docs.aws.amazon.com",
+      "startDate": "2022-10-24",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Created a service utilizing Chat GPT and Agents to provide a chat service to patients using scraped data from a hospital system after a RAG lookup",
+        "",
+        ""
+      ]
+    },
+    {
+        "name": "Seegrid Corporation",
+        "position": "Technical Writer",
+        "url": "https://seegrid.com",
+        "startDate": "2019-12-09",
+        "endDate": "2022-07-24",
+        "summary": "",
+        "highlights": [
+            "",
+            ""
+        ]
+      },
+      {
+        "name": "",
+        "position": "",
+        "startDate": "",
+        "endDate": ""
+      },
+      {
+        "name": "",
+        "position": "",
+        "startDate": "",
+        "endDate": ""
+      }],
+    "education": [{
+      "institution": "University of Pittsburgh",
+      "url": "https://pitt.edu/",
+      "area": "English Writing",
+      "studyType": "Bachelor of Arts"
+    },
+    {
+        "institution": "University of Pittsburgh",
+        "url": "https://pitt.edu/",
+        "area": "Business Management and Economics",
+        "studyType": "Bachelor of Science"
+      }],
+    "skills": [{
+      "name": "Backend Development",
+      "keywords": [
+        "C#",
+        "Python",
+        ".Net",
+        "Redis",
+        "SQL",
+        "Chat GPT",
+        "NLP",
+        "LLM"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "keywords": [
+        "HTML",
+        "JavaScript",
+        "Typescript",
+        "CSS"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Kubernetes",
+        "CI/CD Pipelines",
+        "Helm",
+        "Azure",
+        "GitHub"
+      ]
+    }],
+    "meta":{
+      "theme": "jsonresume-theme-even"
+    }
+  }
