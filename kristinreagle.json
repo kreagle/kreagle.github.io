@@ -25,8 +25,8 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Created a service utilizing Chat GPT and Agents to provide a chat service to patients using scraped data from a hospital system after a RAG lookup",
         "",
+        "LLM training",
         ""
       ]
     },
@@ -38,8 +38,10 @@
         "endDate": "2022-07-24",
         "summary": "",
         "highlights": [
+            "Developed and maintained technical documentation on complex robotics topics and software using Microsoft Word and Adobe FrameMaker",
+            "Launched an internal Knowledge Base and customer-facing Help Center in less than a year with a lean team",
+            "Learned Adobe FrameMaker and Photoshop live while producing content in the first two months of the job",
             "",
-            ""
         ]
       },
       {
