@@ -25,9 +25,9 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Created SEO-friendly content, API references, and code samples for my AWS Services",
-        "Using and training LLMs",
-        "Manage multiple packages and feature branches using command line Git source control",
+        "Created SEO-friendly content, API references, and code samples for my AWS Services.",
+        "Used and trained LLMs",
+        "Managed multiple packages and feature branches using command line Git source control",
         "Collaborated with cross-functional teams to ensure accurate technical content",
         "Reviewed product planning and design documents to provide feedback and customer-facing text",
         "",
@@ -41,17 +41,24 @@
         "endDate": "2022-07-24",
         "summary": "",
         "highlights": [
-            "Developed and maintained technical documentation on complex robotics topics and software using Microsoft Word and Adobe FrameMaker",
-            "Launched an internal Knowledge Base and customer-facing Help Center in less than a year with a lean team",
-            "Learned Adobe FrameMaker and Photoshop live while producing content in the first two months of the job",
-            "",
+            "Developed and maintained technical documentation on complex robotics topics and software using Microsoft Word and Adobe FrameMaker.",
+            "Launched an internal Knowledge Base and customer-facing Help Center in less than a year with a lean team.",
+            "Learned Adobe FrameMaker and Photoshop live while producing content in the first two months of the job.",
+            "Designed documentation templates to increase usability on mobile devices using Figma and Miro.",
+            "Revised dense 300-page manuals into bite-sized, user-friendly articles."
         ]
       },
       {
-        "name": "",
-        "position": "",
-        "startDate": "",
-        "endDate": ""
+        "name": "BathCraft",
+        "position": "Technical Communicator",
+        "startDate": "2015-08-03",
+        "endDate": "2019-12-07",
+        "summary": "",
+        "highlights": [
+            "Wrote and released product marketing copy",
+            "Produced two versions of each manual, matching tone for professional installers and the DIY audience",
+            "Increased sales by 400% with marketing my efforts"
+        ]
       },
       {
         "name": "",
