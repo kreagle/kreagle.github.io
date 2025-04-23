@@ -20,17 +20,21 @@
     "work": [{
       "name": "Amazon Web Services",
       "position": "Senior Technical Writer",
-      "url": "https://docs.aws.amazon.com",
+      "url": "https://docs.aws.amazon.com/singlesignon/",
       "startDate": "2022-10-24",
       "endDate": "",
-      "summary": "",
+      "summary": "Content owner of AWS IAM Identity Center, AWS Resource Access Manager: February 2024 to present
+Content owner of AWS Resource Explorer, Service Quotas, AWS Resource Access Manager, AWS Resource Groups, and AWS Tag Editor: October 2022 - February 2024"
       "highlights": [
-        "Created SEO-friendly content, API references, and code samples for my AWS Services.",
-        "Trained Amazon Q LLM",
+        "Created SEO-friendly content, API references, and code samples for my AWS services",
+        "Refactored content around jobs to be done for a better customer experience",
+        "Work upstream with engineers to focus on the user experience for new features and AWS service launches",
+        "Influenced product design for new features and functionality in the AWS console",
+        "Trained LLM and chatbot which became Amazon Q",
         "Managed multiple packages and feature branches using command line Git source control",
-        "Collaborated with cross-functional teams to ensure accurate technical content",
+        "Collaborated with cross-functional teams and suject matter experts (SMEs) to ensure accurate technical content",
         "Reviewed product planning and design documents to provide feedback and customer-facing text",
-        "Create and maintain documentation as code. ",
+        "Created and maintained documentation as code",
       ]
     },
     {
@@ -41,11 +45,12 @@
         "endDate": "2022-07-24",
         "summary": "",
         "highlights": [
-            "Developed and maintained technical documentation on complex robotics topics and software using Microsoft Word and Adobe FrameMaker.",
-            "Launched an internal Knowledge Base and customer-facing Help Center in less than a year with a lean team.",
-            "Learned Adobe FrameMaker and Photoshop live while producing content in the first two months of the job.",
-            "Designed documentation templates to increase usability on mobile devices using Figma and Miro.",
-            "Revised dense 300-page manuals into bite-sized, user-friendly Knowledge Base articles."
+            "Developed and maintained technical documentation on complex robotics topics and software using Microsoft Word and Adobe FrameMaker",
+            "Launched an internal Knowledge Base and customer-facing Help Center in less than a year with a lean team",
+            "Learned Adobe FrameMaker and Photoshop live while producing content in the first two months of the job",
+            "Designed documentation templates to increase usability on mobile devices using Figma and Miro",
+            "Revised dense 300-page manuals into bite-sized, user-friendly articles",
+            "Collaborated with subject matter experts (SMEs) across functions to create high-value quality content"
         ]
       },
       {
@@ -55,59 +60,61 @@
         "endDate": "2019-12-07",
         "summary": "",
         "highlights": [
-            "Wrote and released product marketing copy",
+            "Wrote and released product marketing copy for use on Lowes website",
             "Produced two versions of each manual, matching tone for professional installers and the DIY audience",
             "Increased sales by 400% with marketing my efforts"
         ]
-      },
-      {
-        "name": "",
-        "position": "",
-        "startDate": "",
-        "endDate": ""
-      }],
+     }],
     "education": [{
       "institution": "University of Pittsburgh",
       "url": "https://pitt.edu/",
       "area": "English Writing",
       "studyType": "Bachelor of Arts"
-    },
-    {
-        "institution": "University of Pittsburgh",
-        "url": "https://pitt.edu/",
-        "area": "Business Management and Economics",
-        "studyType": "Bachelor of Science"
-      }],
+   }],
     "skills": [{
-      "name": "Backend Development",
+      "name": "Technical writing",
       "keywords": [
-        "C#",
-        "Python",
-        ".Net",
-        "Redis",
-        "SQL",
-        "Chat GPT",
-        "NLP",
-        "LLM"
+        "Technical documentation",
+        "User manuals",
+        "Online Help",
+        "API Documentation",
+        "Instructional Guides",
+        "SOP (Standard Operating Procedures)",
+        "Release Notes",
+        "Whitepapers",
+        "Tutorials"  
       ]
     },
     {
-      "name": "Frontend Development",
+      "name": "Tools & Software",
       "keywords": [
+        "Microsoft Word",
+        "Oxygen",
+        "Adobe FrameMaker",
+        "DITA (Darwin Information Typing Architecture)",
+        "Confluence",
+        "Jira",
+        "XML",
         "HTML",
-        "JavaScript",
-        "Typescript",
-        "CSS"
+        "GitHub",
+        "Markdown",
+        "Miro",
+        "Figma",
+        "YouTrack",
+        "Google Suite"
       ]
     },
     {
-      "name": "DevOps",
+      "name": "Soft Skills",
       "keywords": [
-        "Kubernetes",
-        "CI/CD Pipelines",
-        "Helm",
-        "Azure",
-        "GitHub"
+        "Collaboration",
+        "Communication Skills",
+        "Problem Solving",
+        "Detail-Oriented",
+        "Critical Thinking",
+        "Project Management",
+        "Leadership",
+        "Time Management"
       ]
     }],
     "meta":{
