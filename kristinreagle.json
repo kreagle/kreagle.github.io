@@ -23,8 +23,7 @@
       "url": "https://docs.aws.amazon.com/singlesignon/",
       "startDate": "2022-10-24",
       "endDate": "",
-      "summary": "Content owner of AWS IAM Identity Center, AWS Resource Access Manager: February 2024 to present.
-Content owner of AWS Resource Explorer, Service Quotas, AWS Resource Access Manager, AWS Resource Groups, and AWS Tag Editor: October 2022 - February 2024."
+      "summary": "Content owner of AWS IAM Identity Center, AWS Resource Access Manager: February 2024 to present. Content owner of AWS Resource Explorer, Service Quotas, AWS Resource Access Manager, AWS Resource Groups, and AWS Tag Editor: October 2022 - February 2024.",
       "highlights": [
         "Created SEO-friendly content, API references, and code samples for my AWS services",
         "Refactored content around jobs to be done for a better customer experience",
@@ -34,7 +33,7 @@ Content owner of AWS Resource Explorer, Service Quotas, AWS Resource Access Mana
         "Managed multiple packages and feature branches using command line Git source control",
         "Collaborated with cross-functional teams and subject matter experts (SMEs) to ensure accurate technical content",
         "Reviewed product planning and design documents to provide feedback and customer-facing text",
-        "Created and maintained documentation as code",
+        "Created and maintained documentation as code"
       ]
     },
     {
