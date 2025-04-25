@@ -6,7 +6,7 @@
       "email": "kayreagle@gmail.com",
       "phone": "(814) 558-1558",
       "url": "https://kristinreagle.weebly.com/",
-      "summary": "I am a Senior Technical Writer with expertise in cloud services, software, robotics, and manufacturing.",
+      "summary": "Experienced Senior Technical Writer with a strong background in creating high-quality, developer-focused documentation for complex, cloud-native software platforms and robotics. Skilled in working within fast-paced, open-source environments and collaborating cross-functionally with engineers, product managers, and developer advocates to deliver clear, accurate, and user-centered content. Proficient in docs-as-code workflows and version control systems like Git and GitHub. Adept at translating technical concepts into accessible documentation, including API references, user guides, getting started guides, and tutorials. Passionate about observability technologies and committed to enhancing the user experience through scalable, well-structured documentation.",
       "location": {
         "city": "Pittsburgh",
         "countryCode": "US",
@@ -23,17 +23,16 @@
       "url": "https://docs.aws.amazon.com/singlesignon/",
       "startDate": "2022-10-24",
       "endDate": "",
-      "summary": "Content owner of AWS IAM Identity Center, AWS Resource Access Manager: February 2024 to present. Content owner of AWS Resource Explorer, Service Quotas, AWS Resource Access Manager, AWS Resource Groups, and AWS Tag Editor: October 2022 - February 2024.",
+      "summary": "",
       "highlights": [
-        "Created SEO-friendly content, API references, and code samples for my AWS services",
+        "Created SEO-friendly content, API references, and code samples for AWS Resource Access Manager, AWS IAM Identity Center, AWS Resource Explorer, AWS Resource Groups, AWS Tag Editor, and Service Quotas",
         "Refactored content around jobs to be done for a better customer experience",
         "Work upstream with engineers to focus on the user experience for new features and AWS service launches",
         "Influenced product design for new features and functionality in the AWS console",
         "Trained LLM and chatbot which became Amazon Q",
         "Managed multiple packages and feature branches using command line Git source control",
         "Collaborated with cross-functional teams and subject matter experts (SMEs) to ensure accurate technical content",
-        "Reviewed product planning and design documents to provide feedback and customer-facing text",
-        "Created and maintained documentation as code"
+        "Reviewed product planning and design documents to provide feedback and customer-facing text"
       ]
     },
     {
