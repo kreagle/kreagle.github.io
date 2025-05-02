@@ -29,10 +29,12 @@
         "Refactored content around jobs to be done for a better customer experience",
         "Work upstream with engineers to focus on the user experience for new features and AWS service launches",
         "Influenced product design for new features and functionality in the AWS console",
-        "Trained LLM and chatbot which became Amazon Q",
+        "Helped tag and curate data used to train Amazon Q",
+        "Refactored content to optimize LLM usage",
         "Managed multiple packages and feature branches using command line Git source control",
         "Collaborated with cross-functional teams and subject matter experts (SMEs) to ensure accurate technical content",
-        "Reviewed product planning and design documents to provide feedback and customer-facing text"
+        "Reviewed product planning and design documents to provide feedback and customer-facing text",
+        "Created and maintained documentation as code (docs-as-code)"
       ]
     },
     {
@@ -48,7 +50,7 @@
             "Learned Adobe FrameMaker and Photoshop live while producing content in the first two months of the job",
             "Designed documentation templates to increase usability on mobile devices using Figma and Miro",
             "Revised dense 300-page manuals into bite-sized, user-friendly articles",
-            "Collaborated with subject matter experts (SMEs) across functions to create high-value quality content"
+            "Collaborated with subject matter experts (SMEs) across functions to create high-value, quality content"
         ]
       },
       {
@@ -60,7 +62,7 @@
         "highlights": [
             "Wrote and released product marketing copy for use on Lowes website",
             "Produced two versions of each manual, matching tone for professional installers and the DIY audience",
-            "Increased sales by 400% with marketing my efforts"
+            "Increased sales by 400% with my marketing efforts"
         ]
      }],
     "education": [{
