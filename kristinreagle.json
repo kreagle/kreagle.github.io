@@ -72,7 +72,7 @@
       "studyType": "Bachelor of Arts"
    }],
     "skills": [{
-      "name": "Technical writing",
+      "name": "Technical Writing",
       "keywords": [
         "Technical documentation",
         "User manuals",
@@ -83,6 +83,31 @@
         "Release Notes",
         "Whitepapers",
         "Tutorials"  
+      ]
+    },
+    {
+      "name": "Core Competencies",
+      "keywords": [
+        "Content development",
+        "Doc planning",
+        "Audience analysis",
+        "Information architecture",
+        "Content strategy",
+        "Software development lifecycle",
+        "Docs-as-code",
+        "CI/CD pipeline",
+        "Open source documentation"
+      ]
+    },
+    {
+      "name": "Domain Knowledge",
+      "keywords": [
+        "Enterprise software",
+        "Cloud",
+        "Robotics",
+        "SaaS",
+        "Open-source software",
+        "CloudWatch"  
       ]
     },
     {
