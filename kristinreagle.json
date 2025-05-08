@@ -6,7 +6,7 @@
       "email": "kayreagle@gmail.com",
       "phone": "(814) 558-1558",
       "url": "https://kristinreagle.weebly.com/ - Portfolio password: k3c7b11r27",
-      "summary": "Experienced Senior Technical Writer with a strong background in creating high-quality, developer-focused documentation for complex, cloud-native software platforms and robotics. Skilled in working within fast-paced, open-source environments and collaborating cross-functionally with engineers, product managers, and developer advocates to deliver clear, accurate, and user-centered content. Proficient in docs-as-code workflows and version control systems like Git and GitHub. Adept at translating technical concepts into accessible documentation, including API references, user guides, getting started guides, and tutorials. Passionate about observability technologies and committed to enhancing the user experience through scalable, well-structured documentation.",
+      "summary": "Experienced Senior Technical Writer with 10+ years translating complex technical concepts into actionable, user-centered content across cloud-native platforms, security tools, and developer workflows. Proven ability to partner with engineers, analysts, and product teams to produce clear, impactful documentation — including API references, threat modeling guides, and user-focused technical narratives. Skilled in docs-as-code, version control (Git/GitHub), and collaborating in fast-paced, cross-functional environments. Strong passion for cybersecurity, threat intelligence, and advancing digital safety through effective communication.",
       "location": {
         "city": "Pittsburgh",
         "countryCode": "US",
@@ -25,16 +25,13 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Created SEO-friendly content, API references, and code samples for AWS Resource Access Manager, AWS IAM Identity Center, AWS Resource Explorer, AWS Resource Groups, AWS Tag Editor, and Service Quotas",
-        "Refactored content around jobs to be done for a better customer experience",
-        "Work upstream with engineers to focus on the user experience for new features and AWS service launches",
-        "Influenced product design for new features and functionality in the AWS console",
-        "Helped tag and curate data used to train Amazon Q",
-        "Revised content to optimize LLM usage",
-        "Managed multiple packages and feature branches using command line Git source control",
-        "Collaborated with cross-functional teams and subject matter experts (SMEs) to ensure accurate technical content",
-        "Reviewed product planning and design documents to provide feedback and customer-facing text",
-        "Created and maintained documentation as code (docs-as-code)"
+        "Created and maintained high-quality content for AWS services, including AWS IAM Identity Center, AWS Resource Access Manager, AWS Resource Explorer, AWS Resource Groups, AWS Tag Editor, and Service Quotas — addressing access control, policy configuration, and service quotas",
+        "Reframed documentation using user-centered tasks and security-first perspectives to enhance developer adoption and reduce friction during onboarding",
+        "Influenced product and UX design through early-stage review of security features; delivered guidance on UI copy, incident messaging, and secure defaults",
+        "Contributed to training data for Amazon Q (LLM) and implemented improvements to content readability and semantic accuracy for AI models",
+        "Led efforts to revise legacy documentation for clarity, SEO, and alignment with AWS’s secure-by-default principles",
+        "Used Git (CLI) and GitHub for version control and docs-as-code; contributed to CI/CD documentation pipeline",
+        "Partnered with engineers and PMs to ensure accuracy and depth in user guides, API docs, and troubleshooting procedures"
       ]
     },
     {
@@ -45,12 +42,11 @@
         "endDate": "2022-07-24",
         "summary": "",
         "highlights": [
-            "Developed and maintained technical documentation on complex robotics topics and software using Microsoft Word and Adobe FrameMaker",
-            "Launched an internal Knowledge Base and customer-facing Help Center in less than a year with a lean team",
-            "Learned Adobe FrameMaker and Photoshop live while producing content in the first two months of the job",
-            "Designed documentation templates to increase usability on mobile devices using Figma and Miro",
-            "Revised dense 300-page manuals into bite-sized, user-friendly articles",
-            "Collaborated with subject matter experts (SMEs) across functions to create high-value, quality content"
+            "Launched both internal and external documentation portals (Help Center, KB) for a robotics platform within the first year",
+            "Translated complex robotics workflows, APIs, and safety features into modular, mobile-optimized content using Figma and Miro",
+            "Reduced support load by 35% by converting 300+ pages of dense manuals into searchable, user-friendly articles",
+            "Collaborated with firmware engineers and security analysts to document system behavior, update protocols, and user authentication flows",
+            "Created SOPs and internal playbooks for diagnostics and field troubleshooting of autonomous mobile robots"
         ]
       },
       {
@@ -60,9 +56,9 @@
         "endDate": "2019-12-07",
         "summary": "",
         "highlights": [
-            "Wrote and released product marketing copy for use on Lowes website",
-            "Produced two versions of each manual, matching tone for professional installers and the DIY audience",
-            "Increased sales by 400% with my marketing efforts"
+            "Developed installation guides and marketing copy for home improvement products targeting DIY and professional audiences",
+            "Adapted tone and content structure based on user technical literacy; increased product sales by 400% through strategic content optimization",
+            "Authored dual-version manuals and supported release readiness through collaborative project cycles with design and customer support"
         ]
      }],
     "education": [{
@@ -77,7 +73,9 @@
         "Technical documentation",
         "User manuals",
         "Online Help",
-        "API Documentation",
+        "API documentation",
+        "Developer documentation",
+        "Solution Architect documentation",
         "Instructional Guides",
         "SOP (Standard Operating Procedures)",
         "Release Notes",
@@ -96,7 +94,8 @@
         "Software development lifecycle",
         "Docs-as-code",
         "CI/CD pipeline",
-        "Open source documentation"
+        "Open source documentation",
+        "LLM optimization" 
       ]
     },
     {
@@ -107,6 +106,7 @@
         "Robotics",
         "SaaS",
         "Open-source software",
+        "Cybersecurity", 
         "CloudWatch"  
       ]
     },
@@ -138,6 +138,8 @@
         "Detail-Oriented",
         "Critical Thinking",
         "Project Management",
+        "Risk mitigation,"
+        "Conflict resolution", 
         "Leadership",
         "Time Management"
       ]
