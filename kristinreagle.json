@@ -5,14 +5,19 @@
       "image": "",
       "email": "kayreagle@gmail.com",
       "phone": "(814) 558-1558",
-      "url": "https://kristinreagle.weebly.com/ - Portfolio password: k3c7b11r27",
       "summary": "Experienced Senior Technical Writer with 10+ years translating complex technical concepts into actionable, user-centered content across cloud-native platforms, security tools, and developer workflows. Proven ability to partner with engineers, analysts, and product teams to produce clear, impactful documentation — including API references, threat modeling guides, and user-focused technical narratives. Skilled in docs-as-code, version control (Git/GitHub), and collaborating in fast-paced, cross-functional environments. Strong passion for cybersecurity, threat intelligence, and advancing digital safety through effective communication.",
       "location": {
         "city": "Pittsburgh",
         "countryCode": "US",
         "region": "Pennsylvania"
       },
-      "profiles": [{
+      "profiles": [
+        {
+          "network": "password: k3c7b11r27",
+          "url": "https://kristinreagle.weebly.com/",
+          "username":"Portfolio"
+        },
+        {
         "network": "LinkedIn",
         "url": "https://www.linkedin.com/in/kristin-reagle"
       }]
@@ -138,8 +143,8 @@
         "Detail-Oriented",
         "Critical Thinking",
         "Project Management",
-        "Risk mitigation,",
-        "Conflict resolution", 
+        "Risk Mitigation",
+        "Conflict Resolution", 
         "Leadership",
         "Time Management"
       ]
