@@ -24,11 +24,26 @@
       }]
     },
     "work": [{
+      "name": "Microsoft Corporation",
+      "position": "Senior Knowledge Engineer",
+      "url": "https://learn.microsoft.com/en-us/purview/purview,
+      "startDate": "2025-09-08",
+      "endDate": "2026-09-04",
+      "summary": "",
+      "highlights": [
+        "Led the content strategy and technical documentation for Microsoft Purview Insider Risk Management, Communication Compliance, and Encryption solutions, delivering customer-facing guidance for enterprise security and compliance scenarios",
+        "Designed and implemented an AI-first documentation workflow using generative AI, prompt engineering, and human editorial review to accelerate content creation, improve consistency, and reduce documentation delivery time while maintaining technical accuracy",
+        "Authored and maintained comprehensive technical documentation, conceptual articles, deployment guides, tutorials, and troubleshooting content for Microsoft Learn",
+        "Drove continuous improvements to documentation quality through customer feedback analysis, support case trends, usability testing, and content analytics",
+        "Used Git, Markdown, Azure DevOps, and internal publishing systems to manage documentation through agile development cycles and continuous delivery​",
+        "Influenced product usability by identifying documentation gaps and advocating for engineering improvements based on customer feedback and support trends"      ]
+    }],    
+    [{
       "name": "Amazon Web Services",
       "position": "Senior Technical Writer",
       "url": "https://docs.aws.amazon.com/singlesignon/",
       "startDate": "2022-10-24",
-      "endDate": "",
+      "endDate": "2025-09-01",
       "summary": "",
       "highlights": [
         "Created and maintained high-quality content for AWS services, including AWS IAM Identity Center, AWS Resource Access Manager, AWS Resource Explorer, AWS Resource Groups, AWS Tag Editor, and Service Quotas — addressing access control, policy configuration, and service quotas",
