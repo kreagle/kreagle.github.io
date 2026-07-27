@@ -6,7 +6,12 @@
       "email": "kayreagle@gmail.com",
       "url": "https://kreagle.github.io/",
       "phone": "(814) 558-1558",
-      "summary": "Experienced Senior Technical Writer with 10+ years translating complex technical concepts into actionable, user-centered content across cloud-native platforms, security tools, and developer workflows. Proven ability to partner with engineers, analysts, and product teams to produce clear, impactful documentation — including API references, threat modeling guides, and user-focused technical narratives. Skilled in docs-as-code, version control (Git/GitHub), and collaborating in fast-paced, cross-functional environments. Strong passion for cybersecurity, threat intelligence, and advancing digital safety through effective communication.",
+      "summary": "Experienced Senior Technical Writer with 15 years of translating complex technical concepts, using an AI-first
+approach, into actionable, user-centered content across cloud-native platforms, security tools, and developer
+workflows. Proven ability to partner with engineers, analysts, and product teams to produce clear, impactful
+documentation - including API references, threat modeling guides, and user-focused technical narratives. Skilled
+in docs-as-code, version control (Git/GitHub), and collaborating in fast-paced, cross-functional environments.
+Passion for cybersecurity, threat intelligence, and advancing digital safety through effective communication.",
       "location": {
         "city": "Pittsburgh",
         "countryCode": "US",
@@ -29,14 +34,22 @@
       "url": "https://learn.microsoft.com/en-us/purview/purview",
       "startDate": "2025-09-08",
       "endDate": "2026-09-04",
-      "summary": "",
+      "summary": "Led the content strategy and technical documentation for Microsoft Purview Insider Risk Management,
+Communication Compliance, and Encryption solutions, delivering customer-facing guidance for enterprise
+security and compliance scenarios Designed and implemented an AI-first documentation workflow using
+generative AI, prompt engineering, and human editorial review to accelerate content creation, improve
+consistency, and reduce documentation delivery time while maintaining technical accuracy Authored and
+maintained comprehensive technical documentation, conceptual articles, deployment guides, tutorials, and
+troubleshooting content for Microsoft Learn",
       "highlights": [
-        "Led the content strategy and technical documentation for Microsoft Purview Insider Risk Management, Communication Compliance, and Encryption solutions, delivering customer-facing guidance for enterprise security and compliance scenarios",
-        "Designed and implemented an AI-first documentation workflow using generative AI, prompt engineering, and human editorial review to accelerate content creation, improve consistency, and reduce documentation delivery time while maintaining technical accuracy",
-        "Authored and maintained comprehensive technical documentation, conceptual articles, deployment guides, tutorials, and troubleshooting content for Microsoft Learn",
-        "Drove continuous improvements to documentation quality through customer feedback analysis, support case trends, usability testing, and content analytics",
-        "Used Git, Markdown, Azure DevOps, and internal publishing systems to manage documentation through agile development cycles and continuous delivery​",
-        "Influenced product usability by identifying documentation gaps and advocating for engineering improvements based on customer feedback and support trends"      ]
+        "Improved documentation quality by 20% through collaboration with support engineers and customer
+feedback, reducing support tickets and enhancing product usability",
+        "Identified documentation gaps and advocated for engineering improvements across five Purview services,
+which cut support tickets by 40%",
+      "Delivered on-time, high-quality documentation, working seamlessly with six different Purview engineering
+squads, for over 60 new feature releases within the first 6 months",
+      "Drove AI-first workflow improvements across a 7-person team, lowering the time to deliver a first draft by
+22%"]
     },    
     {
       "name": "Amazon Web Services",
@@ -44,15 +57,24 @@
       "url": "https://docs.aws.amazon.com/singlesignon/",
       "startDate": "2022-10-24",
       "endDate": "2025-09-01",
-      "summary": "",
+      "summary": "Created and maintained high-quality content for AWS services, including AWS IAM Identity Center, AWS Resource
+Access Manager, AWS Resource Explorer, AWS Resource Groups, AWS Tag Editor, and Service Quotas - addressing
+access control, policy configuration, and service quotas. Used Git (CLI) and GitHub for version control and docs-ascode.
+Partnered with engineers and PMs to ensure accuracy and depth in user guides, API docs, and
+troubleshooting procedures.",
       "highlights": [
-        "Created and maintained high-quality content for AWS services, including AWS IAM Identity Center, AWS Resource Access Manager, AWS Resource Explorer, AWS Resource Groups, AWS Tag Editor, and Service Quotas — addressing access control, policy configuration, and service quotas",
-        "Reframed documentation using user-centered tasks and security-first perspectives to enhance developer adoption and reduce friction during onboarding",
-        "Influenced product and UX design through early-stage review of security features; delivered guidance on UI copy, incident messaging, and secure defaults",
-        "Contributed to training data for Amazon Q (LLM) and implemented improvements to content readability and semantic accuracy for AI models",
-        "Led efforts to revise legacy documentation for clarity, SEO, and alignment with AWS’s secure-by-default principles",
-        "Used Git (CLI) and GitHub for version control and docs-as-code; contributed to CI/CD documentation pipeline",
-        "Partnered with engineers and PMs to ensure accuracy and depth in user guides, API docs, and troubleshooting procedures"
+        "Reframed high-value articles into user-centric tasks using security-first perspectives to enhance developer
+adoption and reduce friction during onboarding for six service areas, cutting support tickets by 45% within 6
+months",
+        "Influenced product and UX design through early-stage review of security features across six services;
+delivered guidance on UI copy, incident messaging, and secure defaults, improving customer adoption by 13%",
+        "Trained Amazon Q (LLM) to correctly pull information from core documentation for all six services, reducing
+hallucinations by 54%",
+        "Mapped the top 10 most common prompts from Amazon Q to drive customers to curated articles, and
+implemented improvements to content readability and semantic accuracy for AI models, resulting in 33%
+fewer escalations to support",
+       "Led efforts to revise legacy documentation across 6 services for clarity, SEO, and alignment with AWS's
+secure-by-default principles, driving a 60% improvement in quality" 
       ]
     },
     {
@@ -61,13 +83,17 @@
         "url": "https://seegrid.com",
         "startDate": "2019-12-09",
         "endDate": "2022-07-24",
-        "summary": "",
+        "summary": "Created and maintained documentation focused on installation, repair, and maintenance of the hardware and
+software for industrial vision-guided vehicles (VGVs)",
         "highlights": [
-            "Launched both internal and external documentation portals (Help Center, KB) for a robotics platform within the first year",
-            "Translated complex robotics workflows, APIs, and safety features into modular, mobile-optimized content using Figma and Miro",
-            "Reduced support load by 35% by converting 300+ pages of dense manuals into searchable, user-friendly articles",
-            "Collaborated with firmware engineers and security analysts to document system behavior, update protocols, and user authentication flows",
-            "Created SOPs and internal playbooks for diagnostics and field troubleshooting of autonomous mobile robots"
+            "Translated more than 300 complex articles, APIs, and safety features into modular, mobile-optimized content
+using Figma and Miro, which reduced installation times by an average of 25%",
+            "Launched internal and external documentation portals (Help Center, KB) for a robotics platform within the
+first year, improving customer value and cutting on-site technician visits by 40%",
+            "Reduced support load by 35% by converting 300+ pages of dense manuals into searchable, user-friendly
+articles",
+            "Created SOPs and internal playbooks for diagnostics and field troubleshooting of autonomous mobile robots,
+which decreased service dispatches by 23%"
         ]
       },
       {
@@ -75,11 +101,13 @@
         "position": "Technical Communicator",
         "startDate": "2015-08-03",
         "endDate": "2019-12-07",
-        "summary": "",
+        "summary": "Developed installation guides and marketing copy for home improvement products targeting DIY and professional
+audiences",
         "highlights": [
-            "Developed installation guides and marketing copy for home improvement products targeting DIY and professional audiences",
-            "Adapted tone and content structure based on user technical literacy; increased product sales by 400% through strategic content optimization",
-            "Authored dual-version manuals and supported release readiness through collaborative project cycles with design and customer support"
+            "Adapted tone and content structure based on user technical literacy; increased product sales by 400%
+through strategic content optimization",
+            "Authored dual-version manuals and supported release readiness through collaborative project cycles with
+design and customer support, which improved first-time installation success rates by 87%"
         ]
      }],
     "education": [{
