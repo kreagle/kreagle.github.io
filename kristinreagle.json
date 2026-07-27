@@ -11,7 +11,7 @@ approach, into actionable, user-centered content across cloud-native platforms, 
 workflows. Proven ability to partner with engineers, analysts, and product teams to produce clear, impactful
 documentation - including API references, threat modeling guides, and user-focused technical narratives. Skilled
 in docs-as-code, version control (Git/GitHub), and collaborating in fast-paced, cross-functional environments.
-Passion for cybersecurity, threat intelligence, and advancing digital safety through effective communication.",
+Passion for cybersecurity, threat intelligence, and advancing digital safety through effective communication."
       "location": {
         "city": "Pittsburgh",
         "countryCode": "US",
@@ -40,7 +40,7 @@ security and compliance scenarios Designed and implemented an AI-first documenta
 generative AI, prompt engineering, and human editorial review to accelerate content creation, improve
 consistency, and reduce documentation delivery time while maintaining technical accuracy Authored and
 maintained comprehensive technical documentation, conceptual articles, deployment guides, tutorials, and
-troubleshooting content for Microsoft Learn",
+troubleshooting content for Microsoft Learn"
       "highlights": [
         "Improved documentation quality by 20% through collaboration with support engineers and customer
 feedback, reducing support tickets and enhancing product usability",
@@ -59,9 +59,9 @@ squads, for over 60 new feature releases within the first 6 months",
       "endDate": "2025-09-01",
       "summary": "Created and maintained high-quality content for AWS services, including AWS IAM Identity Center, AWS Resource
 Access Manager, AWS Resource Explorer, AWS Resource Groups, AWS Tag Editor, and Service Quotas - addressing
-access control, policy configuration, and service quotas. Used Git (CLI) and GitHub for version control and docs-ascode.
+access control, policy configuration, and service quotas. Used Git (CLI) and GitHub for version control and docs-as-code.
 Partnered with engineers and PMs to ensure accuracy and depth in user guides, API docs, and
-troubleshooting procedures.",
+troubleshooting procedures."
       "highlights": [
         "Reframed high-value articles into user-centric tasks using security-first perspectives to enhance developer
 adoption and reduce friction during onboarding for six service areas, cutting support tickets by 45% within 6
@@ -84,7 +84,7 @@ secure-by-default principles, driving a 60% improvement in quality"
         "startDate": "2019-12-09",
         "endDate": "2022-07-24",
         "summary": "Created and maintained documentation focused on installation, repair, and maintenance of the hardware and
-software for industrial vision-guided vehicles (VGVs)",
+software for industrial vision-guided vehicles (VGVs)"
         "highlights": [
             "Translated more than 300 complex articles, APIs, and safety features into modular, mobile-optimized content
 using Figma and Miro, which reduced installation times by an average of 25%",
@@ -102,7 +102,7 @@ which decreased service dispatches by 23%"
         "startDate": "2015-08-03",
         "endDate": "2019-12-07",
         "summary": "Developed installation guides and marketing copy for home improvement products targeting DIY and professional
-audiences",
+audiences."
         "highlights": [
             "Adapted tone and content structure based on user technical literacy; increased product sales by 400%
 through strategic content optimization",
