@@ -29,7 +29,8 @@
       "url": "https://learn.microsoft.com/en-us/purview/purview",
       "startDate": "2025-09-08",
       "endDate": "2026-09-04",
-      "summary": "",
+      "summary": "Led technical documentation and content strategy for Microsoft Purview security and compliance solutions, including Insider Risk Management, Communication Compliance, and Encryption.",
+      "location": "Remote",
       "highlights": [
         "Led the content strategy and technical documentation for Microsoft Purview Insider Risk Management, Communication Compliance, and Encryption solutions, delivering customer-facing guidance for enterprise security and compliance scenarios",
         "Designed and implemented an AI-first documentation workflow using generative AI, prompt engineering, and human editorial review to accelerate content creation, improve consistency, and reduce documentation delivery time while maintaining technical accuracy",
@@ -170,6 +171,11 @@
       ]
     }],
     "meta":{
-      "theme": "jsonresume-theme-even"
+      "theme": "jsonresume-theme-reagle",
+      "tooling": [
+        "Docs-as-code, GitHub, XML, HTML, Markdown, Microsoft Learn Authoring Tool, VS Code, Oxygen, Adobe FrameMaker, DITA",
+        "Azure DevOps, Agile, Figma, Miro, Confluence, Jira, YouTrack, Google Suite",
+        "Agency Copilot, Claude, GitHub Copilot, and other AI-assisted writing tools"
+      ]
     }
   }

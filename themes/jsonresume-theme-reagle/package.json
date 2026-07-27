@@ -1,0 +1,11 @@
+{
+  "name": "jsonresume-theme-reagle",
+  "version": "1.0.0",
+  "description": "Minimal centered resume theme for Kristin Reagle",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "license": "MIT"
+}

@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "render": "node scripts/render.mjs kristinreagle.json index.html",
     "deploy-resume": "bash scripts/deploy.sh && bash scripts/pushgit.sh"
   },
   "dependencies": {

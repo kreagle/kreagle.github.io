@@ -2,8 +2,12 @@
 
 Schema Reference: https://jsonresume.org/schema
 
-Uses resumed and jsonresume to generate a single page html resume, and pdf:
+Uses a local JSON Resume theme in `themes/jsonresume-theme-reagle` to generate a single page HTML resume and PDF:
 
-resumed render kristinreagle.json --theme jsonresume-theme-even --output index.html
+npm run render
+
+Or directly:
+
+node scripts/render.mjs kristinreagle.json index.html
 
 To Create Resume: run : `./scripts/deploy.sh`
